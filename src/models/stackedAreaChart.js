@@ -1,7 +1,7 @@
 
 nv.models.stackedAreaChart = function() {
     "use strict";
-
+    console.log('using o4ohel nvd3 stackedAreaChart');
     //============================================================
     // Public Variables with Default Settings
     //------------------------------------------------------------
